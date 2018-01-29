@@ -1,0 +1,45 @@
+/*
+ * Class:       AD 320 WI 18
+ * Author:      Danielle Coulter
+ * Title:       main.css
+ * Due Date:    Jan 17, 2018
+*/
+
+/* 
+ * Main css for LocalCal.php (mortgage loan calculator)    
+*/
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    margin-top: 0;
+    color: navy;
+}
+h2 {
+    margin-top: 0;
+    color: gray;
+}
+label {
+    width: 10em;
+    float: left;
+    padding-right: 1em;
+    padding-bottom: .5em;
+}
+input {
+    float: left;
+    width: 15em;
+    margin-bottom: .5em;
+}
+
+span {
+    padding-left: .25em;
+}
+input {
+    float: left;
+    margin-bottom: .5em;
+}
+br {
+    clear: left;
+}
